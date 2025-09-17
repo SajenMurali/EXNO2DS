@@ -54,7 +54,8 @@ df.dtypes
 ```
 df.shape
 ```
-<img width="233" height="61" alt="image" src="https://github.com/user-attachments/assets/657a466f-66db-491e-8963-f4dd20fd440f" />
+<img width="209" height="30" alt="image" src="https://github.com/user-attachments/assets/662d20a7-924f-4e73-ba1d-a69e0308c36b" />
+
 
 ```
 df['Age'].value_counts()
@@ -64,7 +65,8 @@ df['Age'].value_counts()
 ```
 df.nunique()
 ```
-<img width="580" height="606" alt="image" src="https://github.com/user-attachments/assets/1e3a0a41-20ce-4c45-b99a-e3b6629d9648" />
+<img width="277" height="234" alt="image" src="https://github.com/user-attachments/assets/948c1fff-4b81-4e64-a18c-e79c8f97cba6" />
+
 
 ```
 sns.countplot(data=df,x='Survived')
